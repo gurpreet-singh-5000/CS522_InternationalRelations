@@ -7,3 +7,5 @@ Pre WW1 Alliances (https://www.iwm.org.uk/history/what-you-need-to-know-about-pr
 
 Interational Relations 1 (https://www.britannica.com/topic/20th-century-international-relations-2085155/Militarism-and-pacifism-before-1914)
 
+Interational Relations 2 (https://en.wikipedia.org/wiki/Category:20th_century_in_international_relations)
+
