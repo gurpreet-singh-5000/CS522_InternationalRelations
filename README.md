@@ -9,3 +9,9 @@ Interational Relations 1 (https://www.britannica.com/topic/20th-century-internat
 
 Interational Relations 2 (https://en.wikipedia.org/wiki/Category:20th_century_in_international_relations)
 
+International Relations (Overall) (http://snap.stanford.edu/class/cs224w-2018/reports/CS224W-2018-99.pdf)
+
+Multiple international conflict datasets (https://libguides.lib.msu.edu/c.php?g=96739&p=923034)
+
+Oxford War Bibliography (https://www.oxfordbibliographies.com/view/document/obo-9780199743292/obo-9780199743292-0049.xml)
+
