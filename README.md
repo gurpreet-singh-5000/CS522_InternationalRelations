@@ -15,3 +15,5 @@ Multiple international conflict datasets (https://libguides.lib.msu.edu/c.php?g=
 
 Oxford War Bibliography (https://www.oxfordbibliographies.com/view/document/obo-9780199743292/obo-9780199743292-0049.xml)
 
+Steven Pinker's Book recommended by Sir (https://www.arab-books.com/wp-content/uploads/2020/06/StevenPinker-TheBetterAngelsofOurNature_WhyViolenceHasDeclined-PenguinBooks28201229.pdf)
+
