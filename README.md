@@ -10,3 +10,9 @@ In his book ‘The Better Angels of Nature’’, Steven Pinker talks about the 
 Our analysis consists of exploration three different areas. Firstly, we understand and reason temporal behaviour of alliances, disputes and signed networks at an international relation level. Secondly, we look at the effect of changing a couple key relations at the international level, and their effect in their relationships with and between other countries. Finally, we analyse how the Russia-Ukraine War has changed the dynamics of the world, and the formation of coalitions as a result of the same.<br><br>
 
 This project has been done by Gurpreet Singh (2018CSB1092), Vikram Setty (2018MED1010), and Parnavi Shrikhande (2018MED1007) as a part of the course CS522 (Social Computing and Networks) under the guidance of Dr. Sudarshan Iyengar at IIT Ropar.
+
+## Instructions to run temporal analysis:
+
+'CS522_InternationalRelations.ipynb' is the Notebook which contains the related code. The various features of the data can be analyzed by running individual cells.<br>
+'COW country codes.csv' (country codes), 'alliance_v4.1_by_dyad_yearly.csv' (alliance data) and 'dyadic_mid_4.02.csv' (disputes data) contain the datasets.<br>
+Some sample images are attached to show the output of different cells of the notebook.<br>
