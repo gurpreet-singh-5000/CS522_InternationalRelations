@@ -19,6 +19,8 @@ Some sample images are attached to show the output of different cells of the not
 
 ## Instructions to run Analysing Changes in World Dynamics:
 
+Firstly, navigate into the correct directory<br><br>
+
 Initially, run the following command to get the graph and visualized pictures saved.
 
     python3 initial_analysis.py
@@ -29,3 +31,10 @@ Then, run the following commands for running the different analysis cases:
     python3 analysis2.py
 
     python3 analysis3.py
+## Instructions to run Analysing Coalitions:
+
+Firstly, navigate into the correct directory<br><br>
+
+Run the following command to get the desired output from the code.
+
+    python3 before_after_coalitions.py
