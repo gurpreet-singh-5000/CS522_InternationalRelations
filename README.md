@@ -1,19 +1,12 @@
 # CS522_InternationalRelations
-World War 3 Prediction Dataset (https://github.com/worldWarIII-scomp/WorldWarIII_Scomp/tree/main/Dataset)
+Social networks exist all around us. Our friend circles, our professional spaces, and vacation hubs are all big intertwined networks of people connected to one another. They are large data structures that are capable of being exploited to know a lot about the space, its properties, and behaviour. Signed social networks are a type of social network that introduces a dichotomy (usually) in edges, usually categorized into positive and negative edges. In most cases, a positive edge signifies a friendship or positive element (based on the use case of the social network), and a negative edge represents an animosity or negative element. Signed social networks can even go one step further by adding weights to edges, depicting the severity of a good or bad relationship. Such networks end up holding a lot of information and can speak volumes about the nodes, the relationships between them, and what they currently or could represent.<br><br>
 
-Friendship Treaties (https://en.wikipedia.org/wiki/Treaty_of_friendship)
+A lot of the work done in this paper revolves around the use of the balance theorem, a powerful theorem that revolves around stabilizing unstable triangles or triads of nodes embedded in a signed social network. The balance theorem allows only a certain amount of combinations to exist in such triads. To be specific, only triads with zero or two negative edges are said to be stable, and all unstable configurations (having one or three negative edges) are to be shifted into a stable state by attaining one of the possible two stable configurations. For signed social networks with edge weights, a modification of the standard balance theorem has been used in the analysis.<br><br>
 
-Pre WW1 Alliances (https://www.iwm.org.uk/history/what-you-need-to-know-about-pre-first-world-war-alliances)
+Currently, the Russia-Ukraine war has caught all headlines and seems to be a puzzle to most as it has seemed to occur suddenly, out of nowhere. Countless deaths, destruction of property, and unnecessary violence all come hand-in-hand with war. Looking at this issue more closely, from an international relations standpoint, we can individually analyse and introspect various other factors and their spreading through the world social network. Understanding dynamics between different countries can help figure out the reasoning for why such conflicts arise and help us become better prepared to tackle such situations if they were to arise in the future. Predicting the Russia-Ukraine War itself, its outcomes, consequences, estimated time of ending, and severe repercussions if any can all be tried using social networks and their analysis. Attempts to do the same are rarely futile, and often provide a positive effect in one form or the other.<br><br> 
 
-Interational Relations 1 (https://www.britannica.com/topic/20th-century-international-relations-2085155/Militarism-and-pacifism-before-1914)
+In his book ‘The Better Angels of Nature’’, Steven Pinker talks about the various reasons why violence has declined over time. Though it is something that doesn’t really sound right at first glance, it is actually quite intuitive the more we think about it and is only backed by data. It is something we all should strive to work towards, and achieve. A better understanding of the world and international relations dynamics has also been a key reason for taking precautionary measures and avoiding conflict as much as possible.<br><br>
 
-Interational Relations 2 (https://en.wikipedia.org/wiki/Category:20th_century_in_international_relations)
+Our analysis consists of exploration three different areas. Firstly, we understand and reason temporal behaviour of alliances, disputes and signed networks at an international relation level. Secondly, we look at the effect of changing a couple key relations at the international level, and their effect in their relationships with and between other countries. Finally, we analyse how the Russia-Ukraine War has changed the dynamics of the world, and the formation of coalitions as a result of the same.<br><br>
 
-International Relations (Overall) (http://snap.stanford.edu/class/cs224w-2018/reports/CS224W-2018-99.pdf)
-
-Multiple international conflict datasets (https://libguides.lib.msu.edu/c.php?g=96739&p=923034)
-
-Oxford War Bibliography (https://www.oxfordbibliographies.com/view/document/obo-9780199743292/obo-9780199743292-0049.xml)
-
-Steven Pinker's Book recommended by Sir (https://www.arab-books.com/wp-content/uploads/2020/06/StevenPinker-TheBetterAngelsofOurNature_WhyViolenceHasDeclined-PenguinBooks28201229.pdf)
-
+This project has been done by Gurpreet Singh (2018CSB1092), Vikram Setty (2018MED1010), and Parnavi Shrikhande (2018MED1007) as a part of the course CS522 (Social Computing and Networks) under the guidance of Dr. Sudarshan Iyengar at IIT Ropar.
